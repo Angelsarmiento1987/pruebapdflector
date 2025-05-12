@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Angelsarmiento1987/pruebapdflector.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Angelsarmiento1987/pruebapdflector.git/static/js/main.84c9b55a.js",
+    "index.html": "/Angelsarmiento1987/pruebapdflector.git/index.html",
+    "main.e6c13ad2.css.map": "/Angelsarmiento1987/pruebapdflector.git/static/css/main.e6c13ad2.css.map",
+    "main.84c9b55a.js.map": "/Angelsarmiento1987/pruebapdflector.git/static/js/main.84c9b55a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.84c9b55a.js"
+  ]
+}
